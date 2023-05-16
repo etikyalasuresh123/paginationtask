@@ -1,0 +1,13 @@
+.post{
+  border:1px solid black;
+  margin:2px;
+  padding: 10px;
+}
+
+.flex-container{
+  padding:5px;
+  margin: 5px;
+  cursor: pointer;
+  width: 10px;
+  color:blue;
+}
